@@ -12,7 +12,7 @@ Backups
     * Lost data on your computer ? Your code is somewhere else
     * With history... reproducible research anyone ?
 
-Collaborating with your fellow researchers
+Collaborating with your colleagues 
     * "We don't talk with each other so often" ?
         * Why don't we see each other commits and then talk about them ?
             * How to improve feature X and/or merge with code Y
