@@ -4,6 +4,16 @@ barebones git:
 
 http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/
 
-Version control
+Better version control
+    * Does not even need admin interaction
+        * Create repositories as you see fit/need
+
 Backups
+    * Lost data on your computer ? Your code is somewhere else
+    * With history... reproducible research anyone ?
+
 Collaborating with your fellow researchers
+    * "We don't talk with each other so often" ?
+        * Why don't we see each other commits and then talk about them ?
+            * How to improve feature X and/or merge with code Y
+        * Talk with the world out there, lots of code waiting to be reused !
