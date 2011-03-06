@@ -17,3 +17,7 @@ Collaborating with your colleagues
         * Why don't we see each other commits and then talk about them ?
             * How to improve feature X and/or merge with code Y
         * Talk with the world out there, lots of code waiting to be reused !
+
+Getting unexpected collaborations
+    * People follow your commits... seriously !
+    * Increases the quality of your code
