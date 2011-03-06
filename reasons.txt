@@ -1,0 +1,9 @@
+This is an attempt to let people know how to use git
+in a professional way without feeling the pain of
+barebones git:
+
+http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/
+
+Version control
+Backups
+Collaborating with your fellow researchers
