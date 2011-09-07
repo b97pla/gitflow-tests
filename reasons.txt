@@ -18,6 +18,6 @@ Collaborating with your colleagues
             * How to improve feature X and/or merge with code Y
         * Talk with the world out there, lots of code waiting to be reused !
 
-Getting unexpected collaborations
+Getting interesting collaborations
     * People follow your commits... seriously !
     * Increases the quality of your code
