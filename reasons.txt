@@ -25,3 +25,4 @@ Getting interesting collaborations
 FAQ:
 
 * More questions
+* Reset is harder than checkout
