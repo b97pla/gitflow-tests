@@ -21,3 +21,8 @@ Collaborating with your colleagues
 Getting interesting collaborations
     * People follow your commits... seriously !
     * Increases the quality of your code
+
+FAQ:
+
+* More questions
+* Reset is harder than checkout
